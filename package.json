@@ -1,0 +1,21 @@
+{
+  "name": "addressbook",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "react",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Safoh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^6.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
